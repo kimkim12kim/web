@@ -1,0 +1,32 @@
+insert into usertbl(userID, name, birthyear, address)
+values('sms','신민성',2004,'경기도 동탄');
+
+insert into usertbl(userID, name, birthyear, address)
+values('kth','김태현',2004,'경기도 병점');
+
+insert into usertbl(userID, name, birthyear, address)
+values('sty','송태양',2004,'경기도 수원');
+
+insert into usertbl(userID, name, birthyear, address)
+values('kjh','김장환',2004,'경기도 봉담');
+
+insert into usertbl(userID, name, birthyear, address)
+values('pjh','박정현',2004,'경기도 병점쪽');
+
+insert into usertbl(userID, name, birthyear, address)
+values('lgh','이건호',2004,'경기도 병점');
+
+insert into usertbl(userID, name, birthyear, address)
+values('ksg','김상경',2004,'경기도 수원');
+
+insert into usertbl(userID, name, birthyear, address)
+values('kdy','김동윤',2004,'경기도 수원');
+
+insert into usertbl(userID, name, birthyear, address)
+values('jhg','조현규',2004,'경기도 화성');
+
+insert into usertbl(userID, name, birthyear, address)
+values('sjs','신지수',2004,'경기도 수원');
+
+insert into usertbl(userID, name, birthyear, address)
+values('sym','서영민',2004,'경기도 오산');
